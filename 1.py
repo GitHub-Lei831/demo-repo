@@ -1,0 +1,4 @@
+def plus_one(x):
+    return x+1
+
+print(plus_one(100))
